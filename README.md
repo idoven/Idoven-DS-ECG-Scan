@@ -19,7 +19,6 @@ Convert extracted ECG traces into digital ECG signals.
 Ensure the accuracy and integrity of the digital signal in representing the original paper record.
 ### Evaluation:
 
-Evaluate the accuracy of the digitized ECG signals against manually digitized benchmarks.
 Provide a detailed analysis of the algorithm's performance, including any limitations and potential improvements.
 ## Data:
 You are provided with a dataset containing images of ECG paper records from various sources, angles, and quality. All the data is storage into the data folder.
